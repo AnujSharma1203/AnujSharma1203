@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anuj Sharma</h1>
-<h3 align="center">A an aspiring data analyst with a passion for uncovering insights from data, skilled in Excel and SQL. Currently diving into Power BI from India</h3>
+<h3 align="center">A an aspiring data analyst with a passion for uncovering insights from data, skilled in Python, POWER BI, Excel and SQL. Currently diving into Power BI from India</h3>
 
 - 🌱 I’m currently learning **POWER BI, FIGMA, FLUTTER, PYTHON**
 
