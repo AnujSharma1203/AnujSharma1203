@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anuj Sharma</h1>
 <h3 align="center">A an aspiring data analyst with a passion for uncovering insights from data, skilled in Python, POWER BI, Excel and SQL. Currently diving into Power BI from India</h3>
 
-- 🌱 I’m currently learning **POWER BI, FIGMA, FLUTTER, PYTHON**
+- 🌱 I’m currently learning **POWER BI, PYTHON**
 
 - 💬 Ask me about **B.Com student at Sri Aurobindo College, aspiring data analyst skilled in Excel, Flutter, and Dart, currently exploring SQL,Python and Power BI.**
 
