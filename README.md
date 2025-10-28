@@ -27,7 +27,7 @@ Seeking entry-level roles in:
   🌐 Researched global HR policies & talent acquisition trends  
   📝 Collected 150+ survey responses and created actionable reports  
 
-- **Marketing Coordinator & Volunteer** @ Training & Placement Cell  
+- **Marketing Head** @ Training & Placement Cell  
   🎨 Led creative campaigns, managed social media, and organized events  
 
 ---
